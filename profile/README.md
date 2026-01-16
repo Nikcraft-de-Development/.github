@@ -1,5 +1,17 @@
-## 🔥 Nikcraft.de - Development
+# 🔥 Nikcraft.de - Development
+---
 
-Wir sind das Nikcraft.de - ServerTeam, hier programmieren wir Minecraft Plugins, Interne Systeme oder unsere Cloud NcCloud. Gerade sind wir noch in der späten Aufbauphase allerdings sind wir bereits seit 2024 bemüht das Netzwerk mit so hohen Qualitäts Standards wie möglich Online zu bringen.
+## Übersicht
+Wir sind Nikcraft.de - ein Minecraft Netzwerk mit dem Fokus auf Minigames, sowie Idle Games
+<br>Seit unserer Gründung im Jahr 2024 arbeiten wir an einem Release, aktuell gibt es leider noch keinen Termin.
 
-Wenn du mehr über uns unser Netzwerk erfahren möchtest, oder dich als Developer bewerben möchtest, kannst du das gerne auf unserem Discord machen.
+## Unsere Projekte
+- Spring Boot Back-End
+- C++ Minecraft Cloudsystem
+- Allerlei Spielmodi, sowie Custom Systeme
+
+## Wir suchen
+- Java Developer (Minecraft)
+- Java Developer (Back-End)
+- C++, C# Developer
+- Sys. Administratoren
